@@ -1,36 +1,57 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Certainly! Here's a GitHub project description for your DocWeb project:
 
-## Getting Started
+---
 
-First, run the development server:
+# DocWeb - Online Document Editor
+
+![DocWeb Preview](link-to-image.png)
+
+🚀 Welcome to DocWeb, your go-to online document editing tool! 📝
+
+DocWeb is a modern web-based document editor that simplifies the process of creating, editing, and formatting text documents. It's built using the latest web technologies, including Next.js 13, Firebase, and powered by Draft.js.
+
+## Features:
+
+- 📝 **Create and Edit Documents:** DocWeb allows you to create and edit text documents with ease. Customize formatting, structure your content, and collaborate seamlessly.
+
+- 🎨 **Elegant Material Design:** We've taken inspiration from Google Docs to provide you with an elegant Material Design interface. Enjoy a familiar and user-friendly experience from the start.
+
+- 🔒 **Secure Authentication:** Sign in securely with Google Authentication. Your documents are protected and accessible only to you.
+
+- 💾 **Auto-Save Feature:** Never worry about losing your work. DocWeb features an auto-save functionality that ensures your progress is always preserved.
+
+- 📚 **Document History:** Access all your past documents in one place for easy reference. Stay organized and retrieve your previous work effortlessly.
+
+## Try It Out:
+
+Experience the power and simplicity of DocWeb today by visiting [DocWeb Demo](https://doc-web-rouge.vercel.app).
+
+We welcome your feedback and contributions as we continue to improve DocWeb. Feel free to open issues or contribute to the development of this project.
+
+# Get Started:
+
+To get started with DocWeb, follow these steps:
+
+1. Clone this repository.
+2. Install the necessary dependencies.
+3. Start the development server.
 
 ```bash
+git clone https://github.com/your-username/docweb.git
+cd docweb
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+# Support and Contact:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+If you have any questions, suggestions, or encounter any issues, please don't hesitate to reach out to us. You can contact us through [email@example.com](mailto:email@example.com).
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Thank you for checking out DocWeb! We hope it enhances your document editing experience.
 
-## Learn More
+# Keywords: 
+DocWeb, Next.js, Firebase, Draft.js, Document Editing, Material Design, Online Document Editor, Collaboration, Google Authentication
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+You can replace `link-to-image.png` with the actual link to an image representing your project if you have one.
