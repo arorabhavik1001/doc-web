@@ -1,12 +1,8 @@
-Certainly! Here's a GitHub project description for your DocWeb project:
-
----
-
 # DocWeb - Online Document Editor
+<img width="1440" alt="Screenshot 2023-10-03 at 3 04 01 AM" src="https://github.com/arorabhavik1001/doc-web/assets/71212695/d46b9dd0-a817-4c44-8075-b0c33f7a686b">
+<img width="1440" alt="Screenshot 2023-10-03 at 3 04 10 AM" src="https://github.com/arorabhavik1001/doc-web/assets/71212695/7f62dd1e-f8e7-41c1-9f1e-dee1886dce01">
 
-![DocWeb Preview](link-to-image.png)
-
-🚀 Welcome to DocWeb, your go-to online document editing tool! 📝
+🚀 Welcome to my latest personal project, DocWeb: an online document editing tool! 📝
 
 DocWeb is a modern web-based document editor that simplifies the process of creating, editing, and formatting text documents. It's built using the latest web technologies, including Next.js 13, Firebase, and powered by Draft.js.
 
