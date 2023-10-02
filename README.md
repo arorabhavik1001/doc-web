@@ -20,9 +20,7 @@ DocWeb is a modern web-based document editor that simplifies the process of crea
 
 ## Try It Out:
 
-Experience the power and simplicity of DocWeb today by visiting [DocWeb Demo](https://doc-web-rouge.vercel.app).
-
-We welcome your feedback and contributions as we continue to improve DocWeb. Feel free to open issues or contribute to the development of this project.
+Checkout the project - [DocWeb Demo](https://doc-web-rouge.vercel.app).
 
 # Get Started:
 
@@ -38,16 +36,3 @@ cd docweb
 npm install
 npm run dev
 ```
-
-# Support and Contact:
-
-If you have any questions, suggestions, or encounter any issues, please don't hesitate to reach out to us. You can contact us through [email@example.com](mailto:email@example.com).
-
-Thank you for checking out DocWeb! We hope it enhances your document editing experience.
-
-# Keywords: 
-DocWeb, Next.js, Firebase, Draft.js, Document Editing, Material Design, Online Document Editor, Collaboration, Google Authentication
-
----
-
-You can replace `link-to-image.png` with the actual link to an image representing your project if you have one.
