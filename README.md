@@ -1,6 +1,8 @@
 # DocWeb - Online Document Editor
-<img width="1440" alt="Screenshot 2023-10-03 at 3 04 01 AM" src="https://github.com/arorabhavik1001/doc-web/assets/71212695/d46b9dd0-a817-4c44-8075-b0c33f7a686b">
-<img width="1440" alt="Screenshot 2023-10-03 at 3 04 10 AM" src="https://github.com/arorabhavik1001/doc-web/assets/71212695/7f62dd1e-f8e7-41c1-9f1e-dee1886dce01">
+
+![1696283306983](https://github.com/arorabhavik1001/doc-web/assets/71212695/186db636-84f1-4a87-b448-14c5715e46a9)
+
+![1696283306659](https://github.com/arorabhavik1001/doc-web/assets/71212695/adddb212-ef0d-4fc1-bed2-f70d06ca621b)
 
 🚀 Welcome to my latest personal project, DocWeb: an online document editing tool! 📝
 
