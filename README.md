@@ -31,8 +31,8 @@ To get started with DocWeb, follow these steps:
 3. Start the development server.
 
 ```bash
-git clone https://github.com/your-username/docweb.git
-cd docweb
+git clone https://github.com/arorabhavik1001/doc-web.git
+cd doc-web
 npm install
 npm run dev
 ```
